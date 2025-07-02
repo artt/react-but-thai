@@ -93,7 +93,7 @@ use `รูปแบบวัตถุเอกสารตอบสนอง` i
 - unstable_renderSubtreeIntoContainer as แสดงต้นไม้ย่อยเข้าไปในภาชนะแบบไม่เสถียร์
 
 ## Why should I use this
-Because this contains cat gif but React doesn't not.
+Because this contains cat gif but React doesn't.
   
 ![Cat](https://media.tenor.com/images/8900e372a59d270b0238b7aea086c08d/tenor.gif)
   
